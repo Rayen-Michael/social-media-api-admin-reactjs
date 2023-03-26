@@ -1,7 +1,7 @@
 const ApiUrls = {};
 
-ApiUrls.baseUrl = 'https://api.nixlab.co.in/api/v1';
-ApiUrls.devBaseUrl = 'http://localhost:4000/api/v1';
+ApiUrls.baseUrl = 'https://teal-hilarious-gorilla.cyclic.app/api/v1/';
+ApiUrls.devBaseUrl = 'http://localhost:3000/api/v1';
 
 ApiUrls.loginEndpoint = '/admin/login';
 ApiUrls.logoutEndpoint = '/admin/logout';
